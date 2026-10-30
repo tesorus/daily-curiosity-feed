@@ -1,0 +1,30 @@
+[
+  {
+    "category": "Technologie et IA",
+    "url": "https://hnrss.org/frontpage"
+  },
+  {
+    "category": "Technologie et IA",
+    "url": "https://feeds.arstechnica.com/arstechnica/index"
+  },
+  {
+    "category": "Sciences",
+    "url": "https://www.quantamagazine.org/feed/"
+  },
+  {
+    "category": "Société et économie",
+    "url": "https://theconversation.com/fr/articles.atom"
+  },
+  {
+    "category": "Énergie",
+    "url": "https://www.pv-magazine.fr/feed/"
+  },
+  {
+    "category": "Énergie",
+    "url": "https://www.revolution-energetique.com/feed/"
+  },
+  {
+    "category": "Mobilité",
+    "url": "https://www.automobile-propre.com/feed/"
+  }
+]
